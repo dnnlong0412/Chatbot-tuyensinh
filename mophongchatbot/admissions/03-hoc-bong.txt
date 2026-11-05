@@ -1,0 +1,11 @@
+ĐẠI HỌC ABC — TÀI LIỆU MÔ PHỎNG LAB 9
+Chủ đề: Học bổng
+Trạng thái: Dữ liệu giả lập, không phải chính sách chính thức.
+
+Các nhóm minh họa:
+- Học bổng đầu vào theo thành tích học tập.
+- Học bổng khuyến khích học tập theo kết quả mỗi học kỳ.
+- Hỗ trợ theo hoàn cảnh theo quy định của trường.
+
+Điều kiện, giá trị và hạn nộp phải được kiểm tra trong thông báo chính thức.
+

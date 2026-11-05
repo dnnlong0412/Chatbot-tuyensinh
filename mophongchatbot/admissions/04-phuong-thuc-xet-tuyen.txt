@@ -1,0 +1,11 @@
+ĐẠI HỌC ABC — TÀI LIỆU MÔ PHỎNG LAB 9
+Chủ đề: Phương thức xét tuyển
+Trạng thái: Dữ liệu giả lập, không thay thế đề án tuyển sinh.
+
+Các phương thức minh họa:
+- Xét điểm thi tốt nghiệp THPT.
+- Xét kết quả học tập THPT.
+- Tuyển thẳng theo quy định áp dụng.
+
+Thí sinh cần xem điều kiện, ngưỡng nhận hồ sơ và mốc thời gian trong đề án chính thức của năm tuyển sinh.
+

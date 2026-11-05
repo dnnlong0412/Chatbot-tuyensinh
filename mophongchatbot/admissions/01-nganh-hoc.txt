@@ -1,0 +1,13 @@
+ĐẠI HỌC ABC — TÀI LIỆU MÔ PHỎNG LAB 9
+Chủ đề: Ngành học
+Trạng thái: Dữ liệu giả lập, không phải đề án tuyển sinh chính thức.
+
+Các ngành minh họa:
+- Công nghệ thông tin
+- Khoa học dữ liệu
+- Quản trị kinh doanh
+- Marketing
+- Ngôn ngữ Anh
+
+Khi trả lời câu hỏi ngành học, chatbot phải nhắc người dùng kiểm tra danh mục ngành chính thức của trường.
+

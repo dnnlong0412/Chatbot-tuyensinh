@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Website mô phỏng chatbot tuyển sinh Đại học ABC cho Lab 9.">
+  <title>Trợ lý tuyển sinh | Đại học ABC</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="Đại học ABC, trang chủ">
+      <span class="brand-mark">ABC</span>
+      <span class="brand-name">ĐẠI HỌC ABC<small>TRUNG TÂM TUYỂN SINH</small></span>
+    </a>
+    <nav aria-label="Điều hướng chính">
+      <a href="#nganh">Ngành học</a>
+      <a href="#tuyen-sinh">Tuyển sinh</a>
+      <a href="#chat">Hỏi đáp</a>
+    </nav>
+    <span class="demo-pill"><span></span> BẢN MÔ PHỎNG LAB 9</span>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Tuyển sinh đại học · 2026</p>
+        <h1>Chọn ngành phù hợp.<br><span>Bắt đầu tương lai.</span></h1>
+        <p class="intro">Hỏi trợ lý tuyển sinh về ngành học, học phí, học bổng và phương thức xét tuyển. Chatbot hoạt động 24/7 trong bản mô phỏng này.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#chat">Bắt đầu hỏi đáp <span aria-hidden="true">→</span></a>
+          <a class="text-link" href="#nganh">Khám phá ngành học</a>
+        </div>
+        <div class="trust-row"><span class="spark">✦</span> Câu trả lời mẫu dựa trên bộ tài liệu tuyển sinh</div>
+      </div>
+
+      <section class="chat-card" id="chat" aria-label="Chatbot tuyển sinh mô phỏng">
+        <div class="chat-head">
+          <div class="bot-avatar">A</div>
+          <div><strong>Trợ lý tuyển sinh ABC</strong><small><span class="online-dot"></span> Đang hoạt động · Bản mô phỏng</small></div>
+          <button class="more-button" aria-label="Tùy chọn">•••</button>
+        </div>
+        <div class="chat-notice">Thông tin dưới đây chỉ là dữ liệu minh họa cho Lab 9, không phải chính sách tuyển sinh chính thức.</div>
+        <div class="messages" id="messages" aria-live="polite">
+          <div class="message-row">
+            <div class="bot-avatar bot-avatar-small">A</div>
+            <div class="message bot-message">Chào bạn! Mình có thể giúp bạn tìm hiểu ngành học, học phí, học bổng và cách xét tuyển. Bạn đang quan tâm điều gì?</div>
+          </div>
+        </div>
+        <div class="suggestions" id="suggestions">
+          <button type="button" data-question="Trường có những ngành học nào?">Ngành học</button>
+          <button type="button" data-question="Học phí bao nhiêu?">Học phí</button>
+          <button type="button" data-question="Có học bổng không?">Học bổng</button>
+          <button type="button" data-question="Có những phương thức xét tuyển nào?">Xét tuyển</button>
+        </div>
+        <form class="chat-form" id="chat-form">
+          <label class="sr-only" for="question">Nhập câu hỏi</label>
+          <input id="question" name="question" type="text" placeholder="Nhập câu hỏi của bạn..." autocomplete="off">
+          <button class="send-button" type="submit" aria-label="Gửi câu hỏi">↑</button>
+        </form>
+        <p class="chat-footnote">Demo chạy trên trình duyệt · Chưa kết nối Azure AI</p>
+      </section>
+    </section>
+
+    <section class="info-strip" id="nganh" aria-label="Thông tin nổi bật">
+      <article class="info-card"><span class="info-icon">01</span><div><strong>Ngành học</strong><p>Khám phá các lĩnh vực đào tạo</p></div><span class="arrow">↗</span></article>
+      <article class="info-card"><span class="info-icon">02</span><div><strong>Học phí & học bổng</strong><p>Thông tin tham khảo theo tài liệu mẫu</p></div><span class="arrow">↗</span></article>
+      <article class="info-card" id="tuyen-sinh"><span class="info-icon">03</span><div><strong>Phương thức xét tuyển</strong><p>Tra cứu hướng dẫn và hồ sơ cần chuẩn bị</p></div><span class="arrow">↗</span></article>
+    </section>
+  </main>
+
+  <footer>
+    <span>© 2026 Đại học ABC · Bài tập mô phỏng Lab 9</span>
+    <span>Dữ liệu minh họa, vui lòng kiểm tra thông báo chính thức của trường.</span>
+  </footer>
+</body>
+</html>
+

@@ -1,0 +1,12 @@
+ĐẠI HỌC ABC — TÀI LIỆU MÔ PHỎNG LAB 9
+Chủ đề: Hồ sơ và lịch tuyển sinh
+Trạng thái: Dữ liệu giả lập.
+
+Hồ sơ tham khảo có thể gồm:
+- Phiếu đăng ký xét tuyển.
+- Học bạ hoặc kết quả học tập.
+- Giấy tờ tùy thân.
+- Minh chứng đối tượng ưu tiên nếu có.
+
+Lịch nhận hồ sơ và yêu cầu giấy tờ thay đổi hằng năm. Thí sinh cần tra cứu thông báo mới nhất từ trường.
+
