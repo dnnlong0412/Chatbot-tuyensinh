@@ -1,4 +1,4 @@
-# Lab 9 — Chatbot tuyển sinh ABC (bản mô phỏng)
+# Lab 9 — Chatbot tuyển sinh ABC (demowebmau)
 
 Website tĩnh này được chuẩn bị để triển khai lên Azure Static Web Apps. Nội dung trường ABC và các tài liệu tuyển sinh đều là dữ liệu giả lập.
 
@@ -35,3 +35,4 @@ Giữ nguyên các tài liệu giả lập; thay dữ liệu bằng thông tin d
 3. Bấm các nút gợi ý hoặc nhập câu hỏi như “Học phí bao nhiêu?” và “Có học bổng không?”.
 
 Bản này là mô phỏng giao diện và câu trả lời mẫu chạy cục bộ; chưa được xuất bản thành URL Azure.
+Actor: Dao Nguyen Ngoc Long
