@@ -1,7 +1,7 @@
 const faq = [
   {
     keys: ["nganh", "dao tao", "chuyen nganh", "cntt", "marketing", "kinh doanh"],
-    answer: "Theo bộ dữ liệu giả lập của Lab 9, Đại học ABC có các ngành mẫu: Công nghệ thông tin, Khoa học dữ liệu, Quản trị kinh doanh, Marketing và Ngôn ngữ Anh. Đây không phải danh mục ngành chính thức."
+    answer: "Theo bộ dữ liệu giả lập của Lab 9, Đại học Ngọc Long có các ngành mẫu: Công nghệ thông tin, Khoa học dữ liệu, Quản trị kinh doanh, Marketing và Ngôn ngữ Anh. Đây không phải danh mục ngành chính thức."
   },
   {
     keys: ["hoc phi", "tien hoc", "chi phi", "hoc bao nhieu"],
