@@ -1,6 +1,6 @@
-# Lab 9 — Chatbot tuyển sinh ABC (demowebmau)
+# Lab 9 — Chatbot tuyển sinh Ngọc Long (demowebmau)
 
-Website tĩnh này được chuẩn bị để triển khai lên Azure Static Web Apps. Nội dung trường ABC và các tài liệu tuyển sinh đều là dữ liệu giả lập.
+Website tĩnh này được chuẩn bị để triển khai lên Azure Static Web Apps. Nội dung trường Ngọc Long và các tài liệu tuyển sinh đều là dữ liệu giả lập.
 
 ## Có trong gói
 
